@@ -1,8 +1,7 @@
-MBAR
-----
+CGenFF for small molecules
+--------------------------
 
-This notebook introduced the MBAR, including its methodology and how we can use it to
-obtain the unbiased samples.
+This notebook introduced how we can creat CGenFF for small molecules,
 Please open the cgenff.ipynb file using jupyter-lab.
 
 $ jupyter-lab cgenff.ipynb
