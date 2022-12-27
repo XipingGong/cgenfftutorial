@@ -1,0 +1,16 @@
+MBAR
+----
+
+This notebook introduced the MBAR, including its methodology and how we can use it to
+obtain the unbiased samples.
+Please open the cgenff.ipynb file using jupyter-lab.
+
+$ jupyter-lab cgenff.ipynb
+
+or firefox
+
+$ firefox cgenff.html
+
+which was generated from
+
+$ jupyter nbconvert cgenff.ipynb --to html_toc --ExtractOutputPreprocessor.enabled=False
